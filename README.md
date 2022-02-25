@@ -1,2 +1,2 @@
-# CEntral-Limit-Theorem-Case-Study
+# Central-Limit-Theorem-Case-Study
 Learning Central Limit Theorem
